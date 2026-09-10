@@ -1,7 +1,7 @@
 🎯 SkillMatch — Resume-to-Internship Matching Engine
 Upload a resume (or pick a demo profile) → get ranked internship matcheswith an exact list of missing skills.
 
-Live app: coming soon
+Live app:  https://skillmatch-gayatri.streamlit.app
 
 Problem
 Students can't tell which of hundreds of listings actually fit them —and never learn which skills to acquire next.
