@@ -1,0 +1,9 @@
+SNEHA PATIL
+B.Tech Information Technology, 3rd year
+
+SKILLS: JavaScript, React, HTML, CSS, Node.js, Django, Git, communication
+
+PROJECTS
+- E-commerce front-end built in React with shopping cart and payment UI
+- College event website in HTML, CSS, JavaScript — 800+ visitors
+- Blog backend built with Django and SQLite

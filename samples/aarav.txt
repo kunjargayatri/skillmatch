@@ -1,0 +1,13 @@
+AARAV SHARMA
+B.Tech Computer Science, 3rd year, MGM University
+
+SKILLS: Python, SQL, pandas, NumPy, machine learning, deep learning,
+NLP, prompt engineering, Git, matplotlib
+
+PROJECTS
+- Sentiment analysis of movie reviews using scikit-learn and pandas (88% accuracy)
+- Chatbot prototype using an LLM API with prompt engineering
+- Data cleaning pipeline for a 10,000-row dataset using SQL and pandas
+
+COURSEWORK: Machine Learning, DBMS, Data Structures, Statistics
+ACHIEVEMENTS: Finalist, college hackathon 2025
